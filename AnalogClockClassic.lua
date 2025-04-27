@@ -1,5 +1,5 @@
 --[[  AnalogClockClassic.lua  –  analog clock for Classic SoD for the illiterate raiders like Mentor  ]]
-
+print("|cff00ff00AnalogClockClassic loaded!|r")
 local SIZE   = 140          -- overall diameter
 local FACE   = "Interface/AddOns/AnalogClockClassic/Media/clockface"
 local HAND_T = "Interface/AddOns/AnalogClockClassic/Media/hand"
