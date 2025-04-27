@@ -41,7 +41,7 @@ clock:SetScript("OnUpdate", function(self, elapsed)
     self.accum = 0
 
     -- local PC time (swap to realm time with date('*t', GetServerTime()))
-    local t = date("*t")
+    local t = date("*t", GetServerTime())
     local h, m, s = t.hour % 12, t.min, t.sec
 
     self.hour:SetRotation(-TAU * ((h + m/60) / 12))
