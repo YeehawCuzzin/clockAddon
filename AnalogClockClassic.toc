@@ -1,0 +1,6 @@
+## Interface: 11507          # bump if /dump shows a newer build
+## Title: AnalogClockClassic
+## Author: Krish & GPT
+## Version: 1.0
+## Notes: Simple analog clock for Season of Discovery
+AnalogClockClassic.lua
