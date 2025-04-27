@@ -1,4 +1,4 @@
---[[  AnalogClockClassic.lua  –  analog clock for Classic SoD for the illiterate raiders  ]]
+--[[  AnalogClockClassic.lua  –  analog clock for Classic SoD for the illiterate raiders like Mentor  ]]
 
 local SIZE   = 140          -- overall diameter
 local FACE   = "Interface/AddOns/AnalogClockClassic/Media/clockface"
